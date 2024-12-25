@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/cyan_stained_glass"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/riptide"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/vaporeon"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/tapufini"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/nami"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/karty/vaporeon_starter"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/karty/echo_sw"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/karty/nami_uf"}
+	]
+}
+}

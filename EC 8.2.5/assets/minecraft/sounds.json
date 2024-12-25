@@ -1,0 +1,1051 @@
+{
+	"ui.select": {
+		"sounds": [
+			"ui/select"
+		]
+	},
+	"ui.no_function": {
+		"sounds": [
+			"ui/no_function"
+		]
+	},
+
+
+
+	"custom.kunai.throw": {
+		"sounds": [
+			"custom/kunai_throw"
+		]
+	},
+	"custom.kunai.hit": {
+		"sounds": [
+			"custom/kunai_hit"
+		]
+	},
+
+	"custom.firecracker.flight_of_the_phoenix": {
+		"sounds": [
+			"custom/firecracker_flightofthephoenix",
+			"custom/firecracker_flightofthephoenix2"
+		]
+	},
+	"custom.firecracker.burning_throw": {
+		"sounds": [
+			"custom/firecracker_burningthrow"
+		]
+	},
+	"testowa_karta.firecracker.burning_throw": {
+		"sounds": [
+			"custom/test/firecracker_burningthrow"
+		]
+	},
+
+	"custom.curly_ribbons": {
+		"sounds": [
+			"custom/curlyribbons"
+		]
+	},
+	"custom.curly_ribbons_arcade": {
+		"sounds": [
+			"custom/curlyribbons_arcade"
+		]
+	},
+	"custom.purreow1": {
+		"sounds": [
+			"custom/purreow1"
+		]
+	},
+
+	
+
+	"arena.thunder.electrified_water": {
+		"sounds": [
+			"arena/thunder/electrified_water"
+		]
+	},
+	
+
+
+	"event.kda.ahri_fires": {
+		"sounds": [
+			"event/kda/ahri_fires1",
+			"event/kda/ahri_fires2",
+			"event/kda/ahri_fires3"
+		]
+	},
+	"event.kda.fala_music": {
+		"sounds": [
+			"eventy/kda/fala_music1",
+			"eventy/kda/fala_music2",
+			"eventy/kda/fala_music3",
+			"eventy/kda/fala_music4"
+		],
+		"stream": true
+	},
+
+	"event.halloween.mob_spawn": {
+		"sounds": [
+			"event/halloween/mob_spawn"
+		]
+	},
+
+	"event.winterdelight.gift_bells": {
+		"sounds": [
+			"event/winterdelight/gift_bells"
+		]
+	},
+	"event.winterdelight.gift_pop": {
+		"sounds": [
+			"event/winterdelight/gift_pop"
+		]
+	},
+	"event.winterdelight.gift_boom": {
+		"sounds": [
+			"event/winterdelight/gift_boom"
+		]
+	},
+
+	"event.winterdelight.kad_hohoho": {
+		"sounds": [
+			"event/winterdelight/kad_hohoho"
+		]
+	},
+	
+
+
+	"profession.washing.loop": {
+		"sounds": [
+			"profession/washing/loop",
+			"profession/washing/loop2"
+		]
+	},
+	"profession.washing.finished": {
+		"sounds": [
+			"profession/washing/finished"
+		]
+	},
+	"profession.washing.voice_01": {
+		"sounds": [
+			"profession/washing/voice_01"
+		]
+	},
+	"profession.washing.voice_02": {
+		"sounds": [
+			"profession/washing/voice_02"
+		]
+	},
+	"profession.washing.voice_03": {
+		"sounds": [
+			"profession/washing/voice_03"
+		]
+	},
+	"profession.washing.voice_04": {
+		"sounds": [
+			"profession/washing/voice_04"
+		]
+	},
+	"profession.washing.voice_05": {
+		"sounds": [
+			"profession/washing/voice_05"
+		]
+	},
+	"profession.washing.voice_06": {
+		"sounds": [
+			"profession/washing/voice_06"
+		]
+	},
+	"profession.washing.voice_07": {
+		"sounds": [
+			"profession/washing/voice_07"
+		]
+	},
+	"profession.washing.voice_08": {
+		"sounds": [
+			"profession/washing/voice_08"
+		]
+	},
+	"profession.washing.voice_09": {
+		"sounds": [
+			"profession/washing/voice_09"
+		]
+	},
+	"profession.washing.voice_10": {
+		"sounds": [
+			"profession/washing/voice_10"
+		]
+	},
+	"profession.washing.voice_11": {
+		"sounds": [
+			"profession/washing/voice_11"
+		]
+	},
+	"profession.washing.voice_12": {
+		"sounds": [
+			"profession/washing/voice_12"
+		]
+	},
+	"profession.washing.voice_13": {
+		"sounds": [
+			"profession/washing/voice_13"
+		]
+	},
+	
+	"profession.gem.put_down": {
+		"sounds": [
+			"profession/gem/putdown"
+		]
+	},
+	"profession.gem.pick_up": {
+		"sounds": [
+			"profession/gem/pickup"
+		]
+	},
+	"profession.gem.polish": {
+		"sounds": [
+			"profession/gem/polish"
+		]
+	},
+	
+	"profession.prospect": {
+		"sounds": [
+			"profession/prospect"
+		]
+	},
+
+	"dungeons.keystone_failed": {
+		"sounds": [
+			"dungeons/keystone_failed"
+		]
+	},
+
+	"dungeons.keystone_upgrade": {
+		"sounds": [
+			"dungeons/keystone_upgrade"
+		]
+	},
+
+
+	"dungeons.pedestal_close": {
+		"sounds": [
+			"dungeons/pedestal_close",
+			"dungeons/pedestal_close2",
+			"dungeons/pedestal_close3"
+		]
+	},
+
+	"dungeons.pedestal_open": {
+		"sounds": [
+			"dungeons/pedestal_open",
+			"dungeons/pedestal_open2",
+			"dungeons/pedestal_open3"
+		]
+	},
+
+	"dungeons.personal_best": {
+		"sounds": [
+			"dungeons/personal_best"
+		]
+	},
+
+	"dungeons.siegeofspawn.dreamcatcher_fight": {
+		"sounds": [
+			"dungeons/siegeofspawn/dreamcatcher_fight"
+		]
+	},
+
+
+	"dungeons.siegeofspawn.dreamcatcher_wind_ambient": {
+		"sounds": [
+			"dungeons/siegeofspawn/dreamcatcher_wind_ambient"
+		],
+		"stream": true
+	},
+
+	"dungeons.siegeofspawn.dreamcatcher_tornado": {
+		"sounds": [
+			"dungeons/siegeofspawn/dreamcatcher_tornado"
+		]
+	},
+	"dungeons.siegeofspawn.dreamcatcher_humming": {
+		"sounds": [
+			"dungeons/siegeofspawn/dreamcatcher_humming",
+			"dungeons/siegeofspawn/dreamcatcher_humming2"
+		],
+		"stream": true
+	},
+
+	"skill.generic.cast": {
+		"sounds": [
+			"skill/cast"
+		]
+	},
+
+
+	"skill.beast_master.cobra_shot_cast": {
+		"sounds": [
+			"skill/beastmaster/cobrashot_cast",
+			"skill/beastmaster/cobrashot_cast2",
+			"skill/beastmaster/cobrashot_cast3",
+			"skill/beastmaster/cobrashot_cast4",
+			"skill/beastmaster/cobrashot_cast5",
+			"skill/beastmaster/cobrashot_cast6"
+		]
+	},
+	"skill.beast_master.cobra_shot_impact": {
+		"sounds": [
+			"skill/beastmaster/cobrashot_impact",
+			"skill/beastmaster/cobrashot_impact2",
+			"skill/beastmaster/cobrashot_impact3",
+			"skill/beastmaster/cobrashot_impact4",
+			"skill/beastmaster/cobrashot_impact5"
+		]
+	},
+	"skill.beast_master.kill_command": {
+		"sounds": [
+			"skill/beastmaster/killcommand",
+			"skill/beastmaster/killcommand2",
+			"skill/beastmaster/killcommand3"
+		]
+	},
+	"skill.beast_master.bestial_wrath": {
+		"sounds": [
+			"skill/beastmaster/bestialwrath"
+		]
+	},
+	
+
+	"skill.bumble_blast.beepack": {
+		"sounds": [
+			"skill/bumbleblast/beepack",
+			"skill/bumbleblast/beepack2"
+		]
+	},
+	"skill.bumble_blast.bee_launch": {
+		"sounds": [
+			"skill/bumbleblast/bee_launch"
+		]
+	},
+	"skill.bumble_blast.bee_explosion": {
+		"sounds": [
+			"skill/bumbleblast/bee_explosion",
+			"skill/bumbleblast/bee_explosion2"
+		]
+	},
+	"skill.bumble_blast.honey_pickup": {
+		"sounds": [
+			"skill/bumbleblast/honey_pickup"
+		]
+	},
+	"skill.bumble_blast.honey_eruption": {
+		"sounds": [
+			"skill/bumbleblast/honey_eruption",
+			"skill/bumbleblast/honey_eruption2"
+		]
+	},
+
+
+	"skill.dungeon.castlenathria.blood_price": {
+		"sounds": [
+			"skill/dungeon/castlenathria/bloodprice",
+			"skill/dungeon/castlenathria/bloodprice2",
+			"skill/dungeon/castlenathria/bloodprice3"
+		]
+	},
+	"skill.dungeon.castlenathria.blood_price_vo": {
+		"sounds": [
+			"skill/dungeon/castlenathria/vo_bloodprice",
+			"skill/dungeon/castlenathria/vo_bloodprice2",
+			"skill/dungeon/castlenathria/vo_bloodprice3"
+		]
+	},
+	
+	"skill.dungeon.siegeofspawn.pehrek_shadowstrike": {
+		"sounds": [
+			"skill/dungeon/siegeofspawn/pehrek_shadowstrike",
+			"skill/dungeon/siegeofspawn/pehrek_shadowstrike2",
+			"skill/dungeon/siegeofspawn/pehrek_shadowstrike3"
+		]
+	},
+	"skill.buckshot.goat": {
+		"sounds": [
+			"skill/buckshot/goat"
+		]
+	},
+	"skill.buckshot.magic_portal_create": {
+		"sounds": [
+			"skill/buckshot/magic_portal_create"
+		]
+	},
+	"skill.cresselia.starfall": {
+		"sounds": [
+			"skill/cresselia/starfall"
+		]
+	},
+	"skill.cresselia.starsurgecast": {
+		"sounds": [
+			"skill/cresselia/starsurgecast",
+			"skill/cresselia/starsurgecast2"
+		]
+	},
+	"skill.cresselia.starsurgeimpact": {
+		"sounds": [
+			"skill/cresselia/starsurgeimpact",
+			"skill/cresselia/starsurgeimpact2",
+			"skill/cresselia/starsurgeimpact3"
+		]
+	},
+
+	"skill.cresselia.shootingstarhit": {
+		"sounds": [
+			"skill/cresselia/shootingstarhit"
+		]
+	},
+	"skill.cresselia.starfire_precast": {
+		"sounds": [
+			"skill/cresselia/starfire_precast"
+		]
+	},
+	"skill.cresselia.starfire_cast": {
+		"sounds": [
+			"skill/cresselia/starfire_cast",
+			"skill/cresselia/starfire_cast2",
+			"skill/cresselia/starfire_cast3"
+		]
+	},
+	"skill.cresselia.celestial_alignment_cast": {
+		"sounds": [
+			"skill/cresselia/celestial_alignment_cast"
+		]
+	},
+	"skill.cresselia.fullmoon_cast": {
+		"sounds": [
+			"skill/cresselia/fullmoon_cast",
+			"skill/cresselia/fullmoon_cast2",
+			"skill/cresselia/fullmoon_cast3"
+		]
+	},
+	"skill.cresselia.innervate_cast": {
+		"sounds": [
+			"skill/cresselia/innervate_cast"
+		]
+	},
+
+	
+	"skill.delphox.flamethrower": {
+		"sounds": [
+			"skill/delphox/flamethrower"
+		]
+	},
+	"skill.delphox.roleplay": {
+		"sounds": [
+			"skill/delphox/roleplay"
+		]
+	},
+	"skill.delphox.heatsnap": {
+		"sounds": [
+			"skill/delphox/heatsnap"
+		]
+	},
+	"skill.delphox.willowisp": {
+		"sounds": [
+			"skill/delphox/willowisp"
+		]
+	},
+	"skill.delphox.hotspree": {
+		"sounds": [
+			"skill/delphox/hotspree"
+		]
+	},
+	"skill.delphox.willowispwinter": {
+		"sounds": [
+			"skill/delphox/willowispwinter"
+		]
+	},
+	
+
+	"skill.drogoz.dragon_punch": {
+		"sounds": [
+			"skill/drogoz/dragon_punch"
+		]
+	},
+	"skill.drogoz.dragon_punch_background": {
+		"sounds": [
+			"skill/drogoz/dragon_punch_background"
+		]
+	},
+	"skill.drogoz.dragon_punch_takeoff": {
+		"sounds": [
+			"skill/drogoz/dragon_punch_takeoff"
+		]
+	},
+	"skill.drogoz.dragon_punch_voice": {
+		"sounds": [
+			"skill/drogoz/dragon_punch_voice"
+		]
+	},
+	"skill.drogoz.drogoz_land": {
+		"sounds": [
+			"skill/drogoz/drogoz_land"
+		]
+	},
+	"skill.drogoz.drogoz_roar": {
+		"sounds": [
+			"skill/drogoz/drogoz_roar"
+		]
+	},
+	"skill.drogoz.fire_spit_loop": {
+		"sounds": [
+			"skill/drogoz/fire_spit_loop"
+		]
+	},
+	"skill.drogoz.rocket_launcher": {
+		"sounds": [
+			"skill/drogoz/rocket_launcher"
+		]
+	},
+	"skill.drogoz.rocket_launcher_echo": {
+		"sounds": [
+			"skill/drogoz/rocket_launcher_echo"
+		]
+	},
+	"skill.drogoz.rocket_launcher_reverb": {
+		"sounds": [
+			"skill/drogoz/rocket_launcher_reverb"
+		]
+	},
+	"skill.drogoz.rocket_launcher_shoot": {
+		"sounds": [
+			"skill/drogoz/rocket_shoot"
+		]
+	},
+
+
+	"skill.fury_warrior.slash": {
+		"sounds": [
+			"skill/furywarrior/slash",
+			"skill/furywarrior/slash2",
+			"skill/furywarrior/slash3",
+			"skill/furywarrior/slash4",
+			"skill/furywarrior/slash5",
+			"skill/furywarrior/slash6"
+		]
+	},
+
+
+	"skill.ghazan.lava_burst_cast": {
+		"sounds": [
+			"skill/ghazan/lavaburst_cast",
+			"skill/ghazan/lavaburst_cast2",
+			"skill/ghazan/lavaburst_cast3",
+			"skill/ghazan/lavaburst_cast4",
+			"skill/ghazan/lavaburst_cast5",
+			"skill/ghazan/lavaburst_cast6"
+		]
+	},
+	"skill.ghazan.lava_burst_impact": {
+		"sounds": [
+			"skill/ghazan/lavaburst_impact",
+			"skill/ghazan/lavaburst_impact2",
+			"skill/ghazan/lavaburst_impact3",
+			"skill/ghazan/lavaburst_impact4",
+			"skill/ghazan/lavaburst_impact5"
+		]
+	},
+	"skill.ghazan.ascendance_activate": {
+		"sounds": [
+			"skill/ghazan/ascendance_activate",
+			"skill/ghazan/ascendance_activate2",
+			"skill/ghazan/ascendance_activate3",
+			"skill/ghazan/ascendance_activate4",
+			"skill/ghazan/ascendance_activate5",
+			"skill/ghazan/ascendance_activate6",
+			"skill/ghazan/ascendance_activate7",
+			"skill/ghazan/ascendance_activate8",
+			"skill/ghazan/ascendance_activate9",
+			"skill/ghazan/ascendance_activate10"
+		]
+	},
+
+
+	"skill.glaceon.frostbolt_cast": {
+		"sounds": [
+			"skill/glaceon/frostbolt_cast",
+			"skill/glaceon/frostbolt_cast2",
+			"skill/glaceon/frostbolt_cast3",
+			"skill/glaceon/frostbolt_cast4"
+		]
+	},
+	"skill.glaceon.frostbolt_impact": {
+		"sounds": [
+			"skill/glaceon/frostbolt_impact",
+			"skill/glaceon/frostbolt_impact2",
+			"skill/glaceon/frostbolt_impact3",
+			"skill/glaceon/frostbolt_impact4"
+		]
+	},
+	"skill.glaceon.frostbolt_hurl": {
+		"sounds": [
+			"skill/glaceon/frostbolt_hurl",
+			"skill/glaceon/frostbolt_hurl2",
+			"skill/glaceon/frostbolt_hurl3",
+			"skill/glaceon/frostbolt_hurl4"
+		]
+	},
+	"skill.glaceon.icelance_impact": {
+		"sounds": [
+			"skill/glaceon/icelance_impact",
+			"skill/glaceon/icelance_impact2",
+			"skill/glaceon/icelance_impact3",
+			"skill/glaceon/icelance_impact4"
+		]
+	},
+	"skill.glaceon.icelance_hurl": {
+		"sounds": [
+			"skill/glaceon/icelance_hurl",
+			"skill/glaceon/icelance_hurl2",
+			"skill/glaceon/icelance_hurl3",
+			"skill/glaceon/icelance_hurl4"
+		]
+	},
+	"skill.glaceon.flurry_precast": {
+		"sounds": [
+			"skill/glaceon/flurry_precast",
+			"skill/glaceon/flurry_precast2"
+		]
+	},
+	"skill.glaceon.flurry_cast": {
+		"sounds": [
+			"skill/glaceon/flurry_cast",
+			"skill/glaceon/flurry_cast2",
+			"skill/glaceon/flurry_cast3",
+			"skill/glaceon/flurry_cast4",
+			"skill/glaceon/flurry_cast5",
+			"skill/glaceon/flurry_cast6",
+			"skill/glaceon/flurry_cast7"
+		]
+	},
+	"skill.glaceon.flurry_impact": {
+		"sounds": [
+			"skill/glaceon/flurry_impact",
+			"skill/glaceon/flurry_impact2",
+			"skill/glaceon/flurry_impact3",
+			"skill/glaceon/flurry_impact4",
+			"skill/glaceon/flurry_impact5",
+			"skill/glaceon/flurry_impact6",
+			"skill/glaceon/flurry_impact7"
+		]
+	},
+
+	"skill.glaceon.icy_veins_cast": {
+		"sounds": [
+			"skill/glaceon/icyveins_cast"
+		]
+	},
+	"skill.glaceon.icy_veins_active": {
+		"sounds": [
+			"skill/glaceon/icyveins_active",
+			"skill/glaceon/icyveins_active2"
+		]
+	},
+
+	"skill.glaceon.glacial_spike_cast": {
+		"sounds": [
+			"skill/glaceon/glacialspike_cast",
+			"skill/glaceon/glacialspike_cast2",
+			"skill/glaceon/glacialspike_cast3"
+		]
+	},
+	"skill.glaceon.glacial_spike_precast": {
+		"sounds": [
+			"skill/glaceon/glacialspike_precast"
+		]
+	},
+	"skill.glaceon.glacial_spike_hit": {
+		"sounds": [
+			"skill/glaceon/glacialspike_hit",
+			"skill/glaceon/glacialspike_hit2"
+		]
+	},
+	"skill.glaceon.glacial_spike_impact": {
+		"sounds": [
+			"skill/glaceon/glacialspike_impact",
+			"skill/glaceon/glacialspike_impact2",
+			"skill/glaceon/glacialspike_impact3"
+		]
+	},
+
+	"skill.jolteon.volt_control": {
+		"sounds": [
+			"skill/jolteon/voltcontrol"
+		]
+	},
+	"skill.jolteon.overcharge": {
+		"sounds": [
+			"skill/jolteon/overcharge"
+		]
+	},
+
+
+	"skill.spotlight.halo_ring": {
+		"sounds": [
+			"skill/spotlight/haloring1",
+			"skill/spotlight/haloring2"
+		]
+	},
+	"skill.spotlight.halo_ring_heal": {
+		"sounds": [
+			"skill/spotlight/haloring_heal"
+		]
+	},
+	"skill.spotlight.halo_ring_shatter": {
+		"sounds": [
+			"skill/spotlight/haloring_shatter"
+		]
+	},
+
+
+
+	"skill.therold.void_eruption_precast": {
+		"sounds": [
+			"skill/therold/voideruption_precast",
+			"skill/therold/voideruption_precast2"
+		]
+	},
+	"skill.therold.void_eruption_cast": {
+		"sounds": [
+			"skill/therold/voideruption_cast",
+			"skill/therold/voideruption_cast2",
+			"skill/therold/voideruption_cast3"
+		]
+	},
+	"skill.therold.void_bolt_cast": {
+		"sounds": [
+			"skill/therold/voidbolt_cast",
+			"skill/therold/voidbolt_cast2",
+			"skill/therold/voidbolt_cast3",
+			"skill/therold/voidbolt_cast4",
+			"skill/therold/voidbolt_cast5"
+		]
+	},
+	"skill.therold.void_bolt_impact": {
+		"sounds": [
+			"skill/therold/voidbolt_impact",
+			"skill/therold/voidbolt_impact2",
+			"skill/therold/voidbolt_impact3",
+			"skill/therold/voidbolt_impact4",
+			"skill/therold/voidbolt_impact5"
+		]
+	},
+	"skill.therold.shadowcast": {
+		"sounds": [
+			"skill/therold/shadowcast"
+		]
+	},
+	"skill.therold.shadowy_apparitions": {
+		"sounds": [
+			"skill/therold/shadowyapparitions"
+		]
+	},
+	"skill.therold.shadowy_apparitions_whisper": {
+		"sounds": [
+			"skill/therold/shadowyapparitions_whisper",
+			"skill/therold/shadowyapparitions_whisper2",
+			"skill/therold/shadowyapparitions_whisper3",
+			"skill/therold/shadowyapparitions_whisper4",
+			"skill/therold/shadowyapparitions_whisper5",
+			"skill/therold/shadowyapparitions_whisper6",
+			"skill/therold/shadowyapparitions_whisper7",
+			"skill/therold/shadowyapparitions_whisper8",
+			"skill/therold/shadowyapparitions_whisper9"
+		]
+	},
+	"skill.therold.shadow_word_pain": {
+		"sounds": [
+			"skill/therold/shadowwordpain",
+			"skill/therold/shadowwordpain2",
+			"skill/therold/shadowwordpain3",
+			"skill/therold/shadowwordpain4",
+			"skill/therold/shadowwordpain5"
+		]
+	},
+	"skill.therold.shadow_word_death_cast": {
+		"sounds": [
+			"skill/therold/shadow_word_death_cast",
+			"skill/therold/shadow_word_death_cast2",
+			"skill/therold/shadow_word_death_cast3",
+			"skill/therold/shadow_word_death_cast4",
+			"skill/therold/shadow_word_death_cast5"
+		]
+	},
+	"skill.therold.shadow_word_death_impact": {
+		"sounds": [
+			"skill/therold/shadow_word_death_impact",
+			"skill/therold/shadow_word_death_impact2",
+			"skill/therold/shadow_word_death_impact3"
+		]
+	},
+	"skill.therold.shadow_word_void_cast": {
+		"sounds": [
+			"skill/therold/shadow_word_void_cast",
+			"skill/therold/shadow_word_void_cast2",
+			"skill/therold/shadow_word_void_cast3"
+		]
+	},
+	"skill.therold.shadow_word_void_impact": {
+		"sounds": [
+			"skill/therold/shadow_word_void_impact",
+			"skill/therold/shadow_word_void_impact2",
+			"skill/therold/shadow_word_void_impact3"
+		]
+	},
+	"skill.therold.shadow_word_void_precast": {
+		"sounds": [
+			"skill/therold/shadow_word_void_precast",
+			"skill/therold/shadow_word_void_precast2",
+			"skill/therold/shadow_word_void_precast3"
+		]
+	},
+	"skill.therold.shadowy_insight_proc": {
+		"sounds": [
+			"skill/therold/shadowy_insight_proc",
+			"skill/therold/shadowy_insight_proc2",
+			"skill/therold/shadowy_insight_proc3",
+			"skill/therold/shadowy_insight_proc4"
+		]
+	},
+	"skill.therold.surrender_to_madness": {
+		"sounds": [
+			"skill/therold/surrender_to_madness",
+			"skill/therold/surrender_to_madness2",
+			"skill/therold/surrender_to_madness3",
+			"skill/therold/surrender_to_madness4"
+		]
+	},
+	"skill.therold.vampiric_touch": {
+		"sounds": [
+			"skill/therold/vampirictouch"
+		]
+	},
+	"skill.therold.mindflay_channel": {
+		"sounds": [
+			"skill/therold/mindflay_channel",
+			"skill/therold/mindflay_channel2",
+			"skill/therold/mindflay_channel3"
+		]
+	},
+	"skill.therold.mindflay_channel_whisper": {
+		"sounds": [
+			"skill/therold/mindflay_channel_whisper",
+			"skill/therold/mindflay_channel_whisper2",
+			"skill/therold/mindflay_channel_whisper3",
+			"skill/therold/mindflay_channel_whisper4",
+			"skill/therold/mindflay_channel_whisper5",
+			"skill/therold/mindflay_channel_whisper6"
+		]
+	},
+	"skill.therold.mindblast_precast": {
+		"sounds": [
+			"skill/therold/mindblast_precast",
+			"skill/therold/mindblast_precast2",
+			"skill/therold/mindblast_precast3"
+		]
+	},
+	"skill.therold.mindblast_impact": {
+		"sounds": [
+			"skill/therold/mindblast_impact",
+			"skill/therold/mindblast_impact2",
+			"skill/therold/mindblast_impact3",
+			"skill/therold/mindblast_impact4",
+			"skill/therold/mindblast_impact5",
+			"skill/therold/mindblast_impact6"
+		]
+	},
+
+
+	"skill.zoo_lou.summon": {
+		"sounds": [
+			"skill/zoolou/summon"
+		]
+	},
+
+
+
+	"ambient.chamber_of_heart": {
+		"sounds": [
+			"ambient/chamberofheart"
+		],
+		"stream": true
+	},
+	
+	
+	"azerite.loop": {
+		"sounds": [
+			"azerite/loop",
+			"azerite/loop2"
+		]
+	},
+	"azerite.trait_select": {
+		"sounds": [
+			"azerite/traitselect",
+			"azerite/traitselect2",
+			"azerite/traitselect3"
+		]
+	},
+	"azerite.cast": {
+		"sounds": [
+			"azerite/cast",
+			"azerite/cast2",
+			"azerite/cast3"
+		]
+	},
+	"azerite.collect": {
+		"sounds": [
+			"azerite/collect",
+			"azerite/collect2"
+		]
+	},
+	"azerite.rotate": {
+		"sounds": [
+			"azerite/rotate"
+		]
+	},
+
+
+
+	"pass.carnival.theme": {
+		"sounds": [
+			"pass/carnival/theme"
+		],
+		"stream": true
+	},
+	"pass.beach_patrol.theme": {
+		"sounds": [
+			"pass/beachpatrol/theme"
+		],
+		"stream": true
+	},
+	"pass.halloween.theme": {
+		"sounds": [
+			"pass/halloween/theme"
+		],
+		"stream": true
+	},
+	"pass.winterdelight.levelup": {
+		"sounds": [
+			"pass/winterdelight/winterdelightpasslevelup"
+		]
+	},
+	"pass.winterdelight.levelup_shimmering": {
+		"sounds": [
+			"pass/winterdelight/winterdelightpasslevelupshimmering"
+		]
+	},
+	
+	
+	"misc.gearupgrade": {
+		"sounds": [
+			"misc/gearupgrade"
+		]
+	},
+
+
+	"mob.cipochilla.spawn": {
+		"sounds": [
+			"mob/cipochilla/spawn"
+		]
+	},
+	"mob.cipochilla.balagan": {
+		"sounds": [
+			"mob/cipochilla/balagan"
+		]
+	},
+	"mob.cipochilla.sprzatanie": {
+		"sounds": [
+			"mob/cipochilla/sprzatanie"
+		]
+	},
+	"mob.cipochilla.cat_scan": {
+		"sounds": [
+			"mob/cipochilla/catscan"
+		]
+	},
+
+	"pet.winterpet_jingle": {
+		"sounds": [
+			"pet/winterpet_jingle"
+		]
+	},
+	"pet.winterpet_bell": {
+		"sounds": [
+			"pet/winterpet_bell",
+			"pet/winterpet_bell2",
+			"pet/winterpet_bell3",
+			"pet/winterpet_bell4"
+		]
+	},
+	"pet.winterpet_footstep": {
+		"sounds": [
+			"pet/winterpet_footstep"
+		]
+	},
+	"pet.winterpet_ambient": {
+		"sounds": [
+			"pet/winterpet_ambient",
+			"pet/winterpet_ambient2",
+			"pet/winterpet_ambient3"
+		]
+	},
+
+
+	"music_disc.cipochilla": {
+		"sounds": [
+			"music_disc/cipochilla"
+		],
+		"stream": true
+	},
+	"music_disc.tampon": {
+		"sounds": [
+			"music_disc/tampon"
+		],
+		"stream": true
+	},
+	"music_disc.macipodzi": {
+		"sounds": [
+			"music_disc/macipodzi"
+		],
+		"stream": true
+	},
+	"music_disc.typ_dziwy": {
+		"sounds": [
+			"music_disc/typdziwy"
+		],
+		"stream": true
+	},
+
+
+	"music.cliffs_of_elevation": {
+		"sounds": [
+			"music/cliffsofelevation"
+		],
+		"stream": true
+	},
+	"music.tchis_is_my_boyfriend_melovin": {
+		"sounds": [
+			"music/tchisismyboyfriendmelovin"
+		],
+		"stream": true
+	},
+	"music.diss_na_fabiole": {
+		"sounds": [
+			"music/dissnafabiole"
+		],
+		"stream": true
+	},
+	"music.winterdelight_theme": {
+		"sounds": [
+			"music/winterdelight_theme"
+		],
+		"stream": true
+	}
+
+}

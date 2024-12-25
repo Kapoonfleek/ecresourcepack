@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0": "minecraft:item/blaze_powder"
+	},
+	"overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/inferno"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/firebreath"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/immolationteleport"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/umiejetnosci/ghazan/rainoflava"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/umiejetnosci/delphox/infernowinter"}
+	]
+}

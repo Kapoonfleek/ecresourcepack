@@ -1,0 +1,20 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0": "minecraft:item/apple"
+	},
+	"overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/jablko"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/pomarancz"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/foraging/banana"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/foraging/cherry"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/foraging/coconut"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/foraging/dragonfruit"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/foraging/grape"},
+	  { "predicate": {"custom_model_data": 8}, "model": "item/foraging/grapefruit"},
+	  { "predicate": {"custom_model_data": 9}, "model": "item/foraging/kiwi"},
+	  { "predicate": {"custom_model_data": 10}, "model": "item/foraging/mango"},
+	  { "predicate": {"custom_model_data": 11}, "model": "item/foraging/pineapple"},
+	  { "predicate": {"custom_model_data": 12}, "model": "item/foraging/starfruit"}
+	]
+}

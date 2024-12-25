@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/netherite_ingot"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/pszczolka"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/pszczolka2"},
+	   { "predicate": {"custom_model_data": 3}, "model": "item/eventy/christmas2024/christmasdisc"}
+	]
+}

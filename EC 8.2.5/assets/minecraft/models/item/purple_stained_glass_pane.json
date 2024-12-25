@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/purple_stained_glass"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/karty/popfizz_sw"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/cynder"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/galarianslowbro"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/karty/chandelure_pf"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/xilvia"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/varus"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/karty/buckshot_stl"},
+	  { "predicate": {"custom_model_data": 8}, "model": "item/karty/therold"},
+	  { "predicate": {"custom_model_data": 9}, "model": "item/karty/cynder_uf"},
+	  { "predicate": {"custom_model_data": 10}, "model": "item/karty/gengar_pr"},
+	  { "predicate": {"custom_model_data": 11}, "model": "item/karty/hootloop_pf"},
+	  { "predicate": {"custom_model_data": 12}, "model": "item/karty/syndra_pf"},
+	  { "predicate": {"custom_model_data": 13}, "model": "item/karty/crobat_pr"}
+	]
+}

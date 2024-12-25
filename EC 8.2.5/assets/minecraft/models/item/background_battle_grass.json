@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "item/background_battle_grass"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 15.9375],
+			"to": [32, 32, 16],
+			"faces": {
+				"north": {"uv": [11, 16, 0, 5], "rotation": 180, "texture": "#texture"},
+				"south": {"uv": [0, 5, 11, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [71.39, -25, -40],
+			"scale": [3.66, 3.75, 3.66]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

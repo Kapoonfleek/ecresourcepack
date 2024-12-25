@@ -1,0 +1,5 @@
+type=item
+items=potion
+texture=<your custom texture>
+texture.potion_overlay=<empty overlay texture>
+nbt.display.Name=<name>
