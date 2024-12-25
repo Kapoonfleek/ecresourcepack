@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lime_dye"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/perydot"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/hjwc"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/przywolanieptaka"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/przywolaniewilka"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/przywolaniedzika"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/perydite"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/umiejetnosci/drogoz/weaponattack"}
+	]
+}

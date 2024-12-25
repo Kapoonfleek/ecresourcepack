@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/brown_stained_glass"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/bumbleblast"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/prismbreak"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/wolfgang"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/sandslash"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/karty/dino-rang_stl"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/karty/treerex_md"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/karty/giratina_uf"},
+	  { "predicate": {"custom_model_data": 8}, "model": "item/karty/doubletrouble_pf"}
+	]
+}

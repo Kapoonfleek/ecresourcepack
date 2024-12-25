@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cyan_dye"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/aquaring"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/umiejetnosci/vaporeon/circleofwater"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/umiejetnosci/therold/mindflay"}
+	]
+}
