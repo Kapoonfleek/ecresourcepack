@@ -10,6 +10,7 @@
 	  { "predicate": {"custom_model_data": 4}, "model": "item/gear/dungeon_SOS/artifacts/arcanomicon"},
 	  { "predicate": {"custom_model_data": 5}, "model": "item/gear/zone_rainforest/artifacts/hunter_s_manuscript"},
 	  { "predicate": {"custom_model_data": 6}, "model": "item/gear/zone_frost/artifacts/icy_memorial"},
-	  { "predicate": {"custom_model_data": 7}, "model": "item/xpbooks/novice"}
+	  { "predicate": {"custom_model_data": 7}, "model": "item/xpbooks/novice"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/xpbooks/apprentice"}
 	]
 }
