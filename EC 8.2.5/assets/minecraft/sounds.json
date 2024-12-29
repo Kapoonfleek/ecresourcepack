@@ -63,7 +63,56 @@
 			"arena/thunder/electrified_water"
 		]
 	},
-	
+	"arena.ice.arcticcommanderyell": {
+		"sounds": [
+			"arena/ice/arcticcommanderyell",
+			"arena/ice/arcticcommanderyell2"
+		]
+	},
+
+	"arena.ice.minghua_iceform": {
+		"sounds": [
+			"arena/ice/minghua_iceform"
+		]
+	},
+	"arena.ice.minghua_pull": {
+		"sounds": [
+			"arena/ice/minghua_pull",
+			"arena/ice/minghua_pull2"
+		]
+	},
+	"arena.ice.minghua_killplayer": {
+		"sounds": [
+			"arena/ice/minghua_killplayer",
+			"arena/ice/minghua_killplayer2"
+		]
+	},
+	"arena.ice.minghua_waterwhip": {
+		"sounds": [
+			"arena/ice/minghua_waterwhip"
+		]
+	},
+	"arena.ice.minghua_defeat": {
+		"sounds": [
+			"arena/ice/minghua_defeat"
+		]
+	},
+	"arena.ice.minghua_pushaway": {
+		"sounds": [
+			"arena/ice/minghua_pushaway"
+		]
+	},
+	"arena.ice.minghua_50trigger": {
+		"sounds": [
+			"arena/ice/minghua_50trigger"
+		]
+	},
+	"arena.ice.minghua_waterspout": {
+		"sounds": [
+			"arena/ice/minghua_waterspout"
+		]
+	},
+
 
 
 	"event.kda.ahri_fires": {
