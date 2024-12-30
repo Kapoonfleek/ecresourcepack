@@ -2617,13 +2617,6 @@
 	},
 	{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/morderstwo.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": ["\uE436"]
-	},
-	{
-            "type": "bitmap",
             "file": "minecraft:item/umiejetnosci/drogoz/salvo.png",
             "ascent": 9,
             "height": 10,
@@ -2729,20 +2722,6 @@
 	},
 	{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/shadowy_insight.png",
-            "ascent": 64,
-            "height": 64,
-            "chars": ["\uE452"]
-        },
-	{
-            "type": "bitmap",
-            "file": "minecraft:item/icons/buffs/surrendertomadness.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE453"]
-	},
-	{
-            "type": "bitmap",
             "file": "minecraft:item/icons/procs/astral_invocation.png",
             "ascent": 64,
             "height": 64,
@@ -2818,7 +2797,7 @@
             "height": 8,
             "chars": ["\uE464"]
         },
-{
+	{
             "type": "bitmap",
             "file": "minecraft:item/icons/talents/shenhe/1.png",
             "ascent": 13,
@@ -3069,6 +3048,20 @@
             "ascent": 16,
             "height": 16,
             "chars": ["\uE500"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/emotki/morderstwo.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE501"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/npc/minghua.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE502"]
         },
 	{
             "type": "bitmap",
