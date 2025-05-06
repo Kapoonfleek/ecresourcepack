@@ -1,0 +1,6 @@
+{
+	"parent": "gui/beachpatrol",
+	"textures": {
+		"texture": "gui/pass/beachpatrol"
+	}
+}

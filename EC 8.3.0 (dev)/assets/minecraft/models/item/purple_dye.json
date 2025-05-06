@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/purple_dye"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/ujwc"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/widmoweblyskawice"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/umiejetnosci/therold/shadowyapparitions"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/ametite"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/maska"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/venoshock"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/umiejetnosci/cresselia/starfall"},
+	  { "predicate": {"custom_model_data": 8}, "model": "item/umiejetnosci/buckshot/magicportals"},
+	  { "predicate": {"custom_model_data": 9}, "model": "item/umiejetnosci/therold/voideruption"},
+	  { "predicate": {"custom_model_data": 10}, "model": "item/umiejetnosci/cresselia/winter/starfallwinter"}
+	]
+}

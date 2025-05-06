@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/clay_ball"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/perla"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/umiejetnosci/vaporeon/wybuchowybabelek"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/malza"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/blyszczacaperla"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/duzablyszczacaperla"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/zlotaperla"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/duzazlotaperla"},
+
+	{ "predicate": {"custom_model_data": 8}, "model": "item/gear/dungeon_SOS/artifacts/clairvoyance"}
+	]
+}

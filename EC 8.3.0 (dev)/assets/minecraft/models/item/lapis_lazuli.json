@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lapis_lazuli"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/luskamorskiegosmoka"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/szafir"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/szafirowafigurka"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/szafirowekostki"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/umiejetnosci/glaceon/icyveins"}
+	]
+}

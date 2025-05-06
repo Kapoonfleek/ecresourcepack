@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pink_dye"
+  },
+  "overrides": [
+	  { "predicate": {"custom_model_data": 1}, "model": "item/turmalin"},
+	  { "predicate": {"custom_model_data": 2}, "model": "item/mbjwc"},
+	  { "predicate": {"custom_model_data": 3}, "model": "item/kreconewstazki"},
+	  { "predicate": {"custom_model_data": 4}, "model": "item/perilite"},
+	  { "predicate": {"custom_model_data": 5}, "model": "item/turmalinowydiadem"},
+	  { "predicate": {"custom_model_data": 6}, "model": "item/umiejetnosci/buckshot/g.o.a.t"},
+	  { "predicate": {"custom_model_data": 7}, "model": "item/umiejetnosci/cresselia/shootingstars"},
+	  { "predicate": {"custom_model_data": 8}, "model": "item/umiejetnosci/cresselia/winter/shootingstarswinter"}
+	]
+}
