@@ -15,9 +15,8 @@
 	  { "predicate": {"custom_model_data": 9}, "model": "item/verdantbead"},
 	  { "predicate": {"custom_model_data": 10}, "model": "item/heartofearthcraft"},
 	  { "predicate": {"custom_model_data": 11}, "model": "item/gear/dungeon_SOS/jewelry/ring_of_forbidden_techniques"},
-	  { "predicate": {"custom_model_data": 12}, "model": "item/gear/zone_rainforest/spiritoftheforest"},
+	  { "predicate": {"custom_model_data": 12}, "model": "item/gear/zone_rainforest/kizinscurse"},
 	  { "predicate": {"custom_model_data": 13}, "model": "item/gear/professions/elemental_lariat"},
-	  { "predicate": {"custom_model_data": 14}, "model": "item/gear/zone_rainforest/verdantblessing"},
-	  { "predicate": {"custom_model_data": 15}, "model": "item/gear/zone_rainforest/cizinscurse"}
+	  { "predicate": {"custom_model_data": 14}, "model": "item/gear/zone_rainforest/verdantblessing"}
 	]
 }

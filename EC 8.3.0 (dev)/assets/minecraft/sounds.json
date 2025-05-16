@@ -1037,7 +1037,28 @@
 			"skill/therold/mindblast_impact6"
 		]
 	},
-
+	"skill.vaporeon_healingstream_cast": {
+		"sounds": [
+			"skill/vaporeon/healingstream_cast",
+			"skill/vaporeon/healingstream_cast2",
+			"skill/vaporeon/healingstream_cast3"
+		]
+	},
+	"skill.vaporeon_healingstream_hit": {
+		"sounds": [
+			"skill/vaporeon/healingstream_hit",
+			"skill/vaporeon/healingstream_hit2",
+			"skill/vaporeon/healingstream_hit3"
+		]
+	},
+	"skill.vaporeon_tidalwaves": {
+		"sounds": [
+			"skill/vaporeon/tidalwaves",
+			"skill/vaporeon/tidalwaves2",
+			"skill/vaporeon/tidalwaves3",
+			"skill/vaporeon/tidalwaves4"
+		]
+	},
 
 	"skill.zoo_lou.summon": {
 		"sounds": [
@@ -1050,6 +1071,12 @@
 	"ambient.chamber_of_heart": {
 		"sounds": [
 			"ambient/chamberofheart"
+		],
+		"stream": true
+	},
+	"ambient.party_crowd": {
+		"sounds": [
+			"ambient/party_crowd"
 		],
 		"stream": true
 	},
@@ -1239,5 +1266,42 @@
 			"music/winterdelight_theme"
 		],
 		"stream": true
+	},
+	"music.club.thehills": {
+		"sounds": [
+			"music/club/thehills"
+		],
+		"stream": true
+	},
+	"music.club.wherehaveyoubeen": {
+		"sounds": [
+			"music/club/wherehaveyoubeen"
+		],
+		"stream": true
+	},
+	"music.club.julia": {
+		"sounds": [
+			"music/club/julia"
+		],
+		"stream": true
+	},
+	"music.club.ibiza": {
+		"sounds": [
+			"music/club/ibiza"
+		],
+		"stream": true
+	},
+	"music.club.beast": {
+		"sounds": [
+			"music/club/beast"
+		],
+		"stream": true
+	},
+	"music.club.desire": {
+		"sounds": [
+			"music/club/desire"
+		],
+		"stream": true
 	}
+
 }

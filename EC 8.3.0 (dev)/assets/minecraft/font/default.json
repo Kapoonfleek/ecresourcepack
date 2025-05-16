@@ -3065,6 +3065,69 @@
         },
 	{
             "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/1.png",
+            "ascent": 13,
+            "height": 58,
+            "chars": ["\uE503"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/2.png",
+            "ascent": 13,
+            "height": 58,
+            "chars": ["\uE504"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/3.png",
+            "ascent": 13,
+            "height": 58,
+            "chars": ["\uE505"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/4.png",
+            "ascent": 13,
+            "height": 58,
+            "chars": ["\uE506"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/5.png",
+            "ascent": -45,
+            "height": 58,
+            "chars": ["\uE507"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/6.png",
+            "ascent": -45,
+            "height": 58,
+            "chars": ["\uE508"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/7.png",
+            "ascent": -45,
+            "height": 58,
+            "chars": ["\uE509"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/talents/espeon/8.png",
+            "ascent": -45,
+            "height": 58,
+            "chars": ["\uE510"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/procs/tidal_waves.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": ["\uE511"]
+        },
+	{
+            "type": "bitmap",
             "file": "minecraft:item/icons/font/halfspace.png",
             "ascent": -90,
             "height": 7,
