@@ -19,7 +19,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'releasePack.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        exclusions: '*.git* /*node_modules/* .editorconfig *README.md*'
     - name: push changes to remote
       run: |
 
