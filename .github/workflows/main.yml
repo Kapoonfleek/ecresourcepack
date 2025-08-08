@@ -6,6 +6,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        ref: 8.3.0
     - name: pull latest and remove old file from repo
       run: |
         git config --global user.name "kapoonfleek"
