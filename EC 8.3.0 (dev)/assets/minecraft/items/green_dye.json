@@ -1,0 +1,110 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/green_dye"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemstones/jadeit"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/crystals/qjwc"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/jadeinite"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/profesje/jubilerstwo/jadeitowastatuetka"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/wodorosty"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/umiejetnosci/dustox/toxicpowder"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemstones/aleksandryt"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemstones/awenturyn"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/artefakty/gracidea"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/gear/dungeonsos/artifacts/scorchedlavaflower"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/gear/dungeonsos/artifacts/hushednightshade"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/gear/zonerainforest/artifacts/marksmansanemone"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/gear/zonefrost/artifacts/morningfrost"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/umiejetnosci/drogoz/salvo"
+                }
+            }
+        ]
+    }
+}

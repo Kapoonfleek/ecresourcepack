@@ -164,6 +164,712 @@
 			"event/winterdelight/kad_hohoho"
 		]
 	},
+
+
+	"npc.flynnfairwind.greeting_ahoy": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_ahoy"
+		]
+	},
+	"npc.flynnfairwind.greeting_ajobs": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_ajobs"
+		]
+	},
+	"npc.flynnfairwind.greeting_areyou": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_areyou"
+		]
+	},
+	"npc.flynnfairwind.greeting_blood": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_blood"
+		]
+	},
+	"npc.flynnfairwind.greeting_imall": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_imall"
+		]
+	},
+	"npc.flynnfairwind.greeting_whatsthe": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_whatsthe"
+		]
+	},
+	"npc.flynnfairwind.greeting_whatsyour": {
+		"sounds": [
+			"npc/flynnfairwind/greeting_whatsyour"
+		]
+	},
+
+	"npc.flynnfairwind.chatter_aboutmagni": {
+		"sounds": [
+			"npc/flynnfairwind/chatter_aboutmagni"
+		]
+	},
+
+
+	"npc.flynnfairwind.farewell_dontlookback": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_dontlookback"
+		]
+	},
+	"npc.flynnfairwind.farewell_eyesonthehorizon": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_eyesonthehorizon"
+		]
+	},
+	"npc.flynnfairwind.farewell_letsgetpaid": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_letsgetpaid"
+		]
+	},
+	"npc.flynnfairwind.farewell_nextround": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_nextround"
+		]
+	},
+	"npc.flynnfairwind.farewell_powderdry": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_powderdry"
+		]
+	},
+	"npc.flynnfairwind.farewell_seeyouaround": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_seeyouaround"
+		]
+	},
+	"npc.flynnfairwind.farewell_watchyourback": {
+		"sounds": [
+			"npc/flynnfairwind/farewell_watchyourback"
+		]
+	},
+
+	"npc.flynnfairwind.idle": {
+		"sounds": [
+			"npc/flynnfairwind/idle",
+			"npc/flynnfairwind/idle2",
+			"npc/flynnfairwind/idle3",
+			"npc/flynnfairwind/idle4",
+			"npc/flynnfairwind/idle5"
+		]
+	},
+
+	"npc.flynnfairwind.island_azerite_justspotted": {
+		"sounds": [
+			"npc/flynnfairwind/island_azerite_justspotted"
+		]
+	},
+	"npc.flynnfairwind.island_azerite_lookslike": {
+		"sounds": [
+			"npc/flynnfairwind/island_azerite_lookslike"
+		]
+	},
+	"npc.flynnfairwind.island_azerite_thisisland": {
+		"sounds": [
+			"npc/flynnfairwind/island_azerite_thisisland"
+		]
+	},
+	"npc.flynnfairwind.island_azerite_wefound": {
+		"sounds": [
+			"npc/flynnfairwind/island_azerite_wefound"
+		]
+	},
+	"npc.flynnfairwind.island_azerite_wowthatis": {
+		"sounds": [
+			"npc/flynnfairwind/island_azerite_wowthatis"
+		]
+	},
+
+	"npc.flynnfairwind.island_azeritedetector_actingup": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_actingup"
+		]
+	},
+	"npc.flynnfairwind.island_azeritedetector_goingbarmy": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_goingbarmy"
+		]
+	},
+	"npc.flynnfairwind.island_azeritedetector_nearbysource": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_nearbysource"
+		]
+	},
+	"npc.flynnfairwind.island_azeritedetector_online": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_online"
+		]
+	},
+	"npc.flynnfairwind.island_azeritedetector_sourceof": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_sourceof"
+		]
+	},
+	"npc.flynnfairwind.island_azeritedetector_up": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_up"
+		]
+	},
+	"npc.flynnfairwind.island_azeritedetector_working": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritedetector_working"
+		]
+	},
+
+	"npc.flynnfairwind.island_azeriteextractor_readyforuse": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeriteextractor_readyforuse"
+		]
+	},
+
+	"npc.flynnfairwind.island_azeritenearby_bigchunk": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritenearby_bigchunk"
+		]
+	},
+	"npc.flynnfairwind.island_azeritenearby_wejust": {
+		"sounds": [
+			"npc/flynnfairwind/island_azeritenearby_wejust"
+		]
+	},
+
+	"npc.flynnfairwind.island_bonusobjective_coin_theresthe": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_coin_theresthe"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_hunkofjunk_seethat": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_hunkofjunk_seethat"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_jetpack_goodnews": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_jetpack_goodnews"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_jetpack_icantbelieve": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_jetpack_icantbelieve"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_jetpack_readyfor": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_jetpack_readyfor"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_robot_yes": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_robot_yes"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_scrapheap_itmaynot": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_scrapheap_itmaynot"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_siegeengine_hmmthis": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_siegeengine_hmmthis"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_siegeengine_justlisten": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_siegeengine_justlisten"
+		]
+	},
+	"npc.flynnfairwind.island_bonusobjective_siegeengine_wehavea": {
+		"sounds": [
+			"npc/flynnfairwind/island_bonusobjective_siegeengine_wehavea"
+		]
+	},
+
+	"npc.flynnfairwind.island_departing": {
+		"sounds": [
+			"npc/flynnfairwind/island_departing"
+		]
+	},
+
+	"npc.flynnfairwind.island_enemydefeated_crazedanimals": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_crazedanimals"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_didyousee": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_didyousee"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_dreadcaptain": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_dreadcaptain"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_finework": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_finework"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_keepbusy": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_keepbusy"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_nice": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_nice"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_noneofthewallets": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_noneofthewallets"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_pirate_except": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_pirate_except"
+		]
+	},
+	"npc.flynnfairwind.island_enemydefeated_pirate_withoutthat": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemydefeated_pirate_withoutthat"
+		]
+	},
+
+	"npc.flynnfairwind.island_enemynearby_afterazerite": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_afterazerite"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_alargebeast": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_alargebeast"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_apirate": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_apirate"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_bewitchedbears": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_bewitchedbears"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_bigmonster": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_bigmonster"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_bounty": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_bounty"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_donewiththis": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_donewiththis"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_hairproductreed": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_hairproductreed"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_irecognize": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_irecognize"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_nastyoutlaw": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_nastyoutlaw"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_notagain": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_notagain"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_skeletaldemon": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_skeletaldemon"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_theyvealso": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_theyvealso"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_thing": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_thing"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_waitdoyou": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_waitdoyou"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_wheresmywallet": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_wheresmywallet"
+		]
+	},
+	"npc.flynnfairwind.island_enemynearby_woooo": {
+		"sounds": [
+			"npc/flynnfairwind/island_enemynearby_woooo"
+		]
+	},
+
+	"npc.flynnfairwind.island_fail_cantwinthemall": {
+		"sounds": [
+			"npc/flynnfairwind/island_fail_cantwinthemall"
+		]
+	},
+
+	"npc.flynnfairwind.island_interaction_booze": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_booze"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_chestopen": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_chestopen"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_drink_whatareyou": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_drink_whatareyou"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_itdidntexplode": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_itdidntexplode"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_packsapunch": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_packsapunch"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_parrot_takethat": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_parrot_takethat"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_throw": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_throw"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_washthis": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_washthis"
+		]
+	},
+	"npc.flynnfairwind.island_interaction_youbrute": {
+		"sounds": [
+			"npc/flynnfairwind/island_interaction_youbrute"
+		]
+	},
+
+	"npc.flynnfairwind.island_progress_almostdone": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_almostdone"
+		]
+	},
+	"npc.flynnfairwind.island_progress_azeritestores": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_azeritestores"
+		]
+	},
+	"npc.flynnfairwind.island_progress_everyoneaboard": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_everyoneaboard"
+		]
+	},
+	"npc.flynnfairwind.island_progress_halfwaymark": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_halfwaymark"
+		]
+	},
+	"npc.flynnfairwind.island_progress_halfwaythere": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_halfwaythere"
+		]
+	},
+	"npc.flynnfairwind.island_progress_howsit": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_howsit"
+		]
+	},
+	"npc.flynnfairwind.island_progress_hullshalffull": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_hullshalffull"
+		]
+	},
+	"npc.flynnfairwind.island_progress_hullsnearlyfull": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_hullsnearlyfull"
+		]
+	},
+	"npc.flynnfairwind.island_progress_justaboutdone": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_justaboutdone"
+		]
+	},
+	"npc.flynnfairwind.island_progress_ourhold": {
+		"sounds": [
+			"npc/flynnfairwind/island_progress_ourhold"
+		]
+	},
+
+	"npc.flynnfairwind.island_start_airelementals_hurricane": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_airelementals_hurricane"
+		]
+	},
+	"npc.flynnfairwind.island_start_arrive_anchorsaway": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_arrive_anchorsaway"
+		]
+	},
+	"npc.flynnfairwind.island_start_arrive_lookslike": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_arrive_lookslike"
+		]
+	},
+	"npc.flynnfairwind.island_start_arrive_opensea": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_arrive_opensea"
+		]
+	},
+	"npc.flynnfairwind.island_start_arrive_opensea_wellunless": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_arrive_opensea_wellunless"
+		]
+	},
+	"npc.flynnfairwind.island_start_arrive_shipsdocked": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_arrive_shipsdocked"
+		]
+	},
+
+	"npc.flynnfairwind.island_start_chatter_avast": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_chatter_avast"
+		]
+	},
+	"npc.flynnfairwind.island_start_chatter_gangplanks": {
+		"sounds": [
+			"npc/flynnfairwind/island_start_chatter_gangplanks"
+		]
+	},
+
+
+	
+	"npc.magnibronzebeard.annoyed_clobbering": {
+		"sounds": [
+			"npc/magnibronzebeard/annoyed_clobbering"
+		]
+	},
+	"npc.magnibronzebeard.annoyed_magma": {
+		"sounds": [
+			"npc/magnibronzebeard/annoyed_magma"
+		]
+	},
+	"npc.magnibronzebeard.annoyed_messing": {
+		"sounds": [
+			"npc/magnibronzebeard/annoyed_messing"
+		]
+	},
+	"npc.magnibronzebeard.annoyed_nonsense": {
+		"sounds": [
+			"npc/magnibronzebeard/annoyed_nonsense"
+		]
+	},
+	"npc.magnibronzebeard.annoyed_poking": {
+		"sounds": [
+			"npc/magnibronzebeard/annoyed_poking"
+		]
+	},
+
+	"npc.magnibronzebeard.farewell_backtowork": {
+		"sounds": [
+			"npc/magnibronzebeard/farewell_backtowork"
+		]
+	},
+
+	"npc.magnibronzebeard.greeting_fight": {
+		"sounds": [
+			"npc/magnibronzebeard/greeting_fight"
+		]
+	},
+	"npc.magnibronzebeard.greeting_ourworld": {
+		"sounds": [
+			"npc/magnibronzebeard/greeting_ourworld"
+		]
+	},
+	"npc.magnibronzebeard.greeting_ourworldneeds": {
+		"sounds": [
+			"npc/magnibronzebeard/greeting_ourworldneeds"
+		]
+	},
+	"npc.magnibronzebeard.greeting_thesestones": {
+		"sounds": [
+			"npc/magnibronzebeard/greeting_thesestones"
+		]
+	},
+	"npc.magnibronzebeard.greeting_wellmet": {
+		"sounds": [
+			"npc/magnibronzebeard/greeting_wellmet"
+		]
+	},
+	"npc.magnibronzebeard.heart_ahthere": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_ahthere"
+		]
+	},
+	"npc.magnibronzebeard.heart_ifyouuse": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_ifyouuse"
+		]
+	},
+	"npc.magnibronzebeard.heart_infuse": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_infuse"
+		]
+	},
+	"npc.magnibronzebeard.heart_introduction": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_introduction"
+		]
+	},
+	"npc.magnibronzebeard.heart_keepgoing": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_keepgoing"
+		]
+	},
+	"npc.magnibronzebeard.heart_keepthat": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_keepthat"
+		]
+	},
+	"npc.magnibronzebeard.heart_notheseal": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_notheseal"
+		]
+	},
+	"npc.magnibronzebeard.heart_thatsit": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_thatsit"
+		]
+	},
+	"npc.magnibronzebeard.heart_theentrance": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_theentrance"
+		]
+	},
+	"npc.magnibronzebeard.heart_theplanet": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_theplanet"
+		]
+	},
+	"npc.magnibronzebeard.heart_theseal": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_theseal"
+		]
+	},
+	"npc.magnibronzebeard.heart_thevery": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_thevery"
+		]
+	},
+	"npc.magnibronzebeard.heart_unleash": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_unleash"
+		]
+	},
+	"npc.magnibronzebeard.heart_wellhero": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_wellhero"
+		]
+	},
+	"npc.magnibronzebeard.heart_youdidit": {
+		"sounds": [
+			"npc/magnibronzebeard/heart_youdidit"
+		]
+	},
+	"npc.magnibronzebeard.magni_battleshout": {
+		"sounds": [
+			"npc/magnibronzebeard/magni_battleshout",
+			"npc/magnibronzebeard/magni_battleshout"
+		]
+	},
+	"npc.magnibronzebeard.quest_earthelementals": {
+		"sounds": [
+			"npc/magnibronzebeard/quest_earthelementals"
+		]
+	},
+	"npc.magnibronzebeard.quest_elements": {
+		"sounds": [
+			"npc/magnibronzebeard/quest_elements"
+		]
+	},
+	"npc.magnibronzebeard.quest_icansense": {
+		"sounds": [
+			"npc/magnibronzebeard/quest_icansense"
+		]
+	},
+	"npc.magnibronzebeard.quest_isense": {
+		"sounds": [
+			"npc/magnibronzebeard/quest_isense"
+		]
+	},
+	"npc.magnibronzebeard.quest_someone": {
+		"sounds": [
+			"npc/magnibronzebeard/quest_someone"
+		]
+	},
+	"npc.magnibronzebeard.quest_someoneinthis": {
+		"sounds": [
+			"npc/magnibronzebeard/quest_someoneinthis"
+		]
+	},
+	"npc.magnibronzebeard.vo_come": {
+		"sounds": [
+			"npc/magnibronzebeard/vo_come"
+		]
+	},
+	"npc.magnibronzebeard.vo_imaybe": {
+		"sounds": [
+			"npc/magnibronzebeard/vo_imaybe"
+		]
+	},
+	"npc.magnibronzebeard.vo_ivegot": {
+		"sounds": [
+			"npc/magnibronzebeard/vo_ivegot"
+		]
+	},
+	"npc.magnibronzebeard.vo_thiscan": {
+		"sounds": [
+			"npc/magnibronzebeard/vo_thiscan"
+		]
+	},
+	"npc.magnibronzebeard.vo_watchyourself": {
+		"sounds": [
+			"npc/magnibronzebeard/vo_watchyourself"
+		]
+	},
+	"npc.magnibronzebeard.vo_youneed": {
+		"sounds": [
+			"npc/magnibronzebeard/vo_youneed"
+		]
+	},
+
+
 	
 
 
@@ -686,6 +1392,46 @@
 		]
 	},
 
+	"skill.espeon.futuresight": {
+		"sounds": [
+			"skill/espeon/futuresight"
+		]
+	},
+	"skill.espeon.mindtransfer": {
+		"sounds": [
+			"skill/espeon/mindtransfer"
+		]
+	},
+	"skill.espeon.timewarp": {
+		"sounds": [
+			"skill/espeon/timewarp",
+			"skill/espeon/timewarp2",
+			"skill/espeon/timewarp3"
+		]
+	},
+	"skill.espeon.timewarp_cast": {
+		"sounds": [
+			"skill/espeon/timewarp_cast",
+			"skill/espeon/timewarp_cast2",
+			"skill/espeon/timewarp_cast3",
+			"skill/espeon/timewarp_cast4",
+			"skill/espeon/timewarp_cast5"
+		]
+	},
+
+
+	"skill.jetvac.vacblaster_shoot": {
+		"sounds": [
+			"skill/jetvac/vacblaster_shoot"
+		]
+	},
+	"skill.jetvac.doublebarrel_voice": {
+		"sounds": [
+			"skill/jetvac/doublebarrel_voice",
+			"skill/jetvac/doublebarrel_voice2"
+		]
+	},
+
 
 	"skill.fury_warrior.slash": {
 		"sounds": [
@@ -707,6 +1453,15 @@
 			"skill/ghazan/lavaburst_cast4",
 			"skill/ghazan/lavaburst_cast5",
 			"skill/ghazan/lavaburst_cast6"
+		]
+	},
+	"skill.ghazan.lava_burst_precast": {
+		"sounds": [
+			"skill/ghazan/lavaburst_precast",
+			"skill/ghazan/lavaburst_precast2",
+			"skill/ghazan/lavaburst_precast3",
+			"skill/ghazan/lavaburst_precast4",
+			"skill/ghazan/lavaburst_precast5"
 		]
 	},
 	"skill.ghazan.lava_burst_impact": {
@@ -1081,7 +1836,12 @@
 		"stream": true
 	},
 	
-	
+	"azerite.hum": {
+		"sounds": [
+			"azerite/hum",
+			"azerite/hum2"
+		]
+	},
 	"azerite.loop": {
 		"sounds": [
 			"azerite/loop",
@@ -1093,6 +1853,13 @@
 			"azerite/traitselect",
 			"azerite/traitselect2",
 			"azerite/traitselect3"
+		]
+	},
+	"azerite.trait_lockin": {
+		"sounds": [
+			"azerite/traitlockin",
+			"azerite/traitlockin2",
+			"azerite/traitlockin3"
 		]
 	},
 	"azerite.cast": {
@@ -1108,9 +1875,33 @@
 			"azerite/collect2"
 		]
 	},
+	"azerite.collect_small": {
+		"sounds": [
+			"azerite/collect_small",
+			"azerite/collect_small2",
+			"azerite/collect_small3"
+		]
+	},
+	"azerite.reforge": {
+		"sounds": [
+			"azerite/reforge"
+		]
+	},
 	"azerite.rotate": {
 		"sounds": [
 			"azerite/rotate"
+		]
+	},
+	"azerite.rotate_stop": {
+		"sounds": [
+			"azerite/rotate_stop",
+			"azerite/rotate_stop2",
+			"azerite/rotate_stop3"
+		]
+	},
+	"azerite.chest_loop": {
+		"sounds": [
+			"azerite/chest_loop"
 		]
 	},
 
@@ -1149,6 +1940,16 @@
 	"misc.gearupgrade": {
 		"sounds": [
 			"misc/gearupgrade"
+		]
+	},
+	"misc.heartbeat1": {
+		"sounds": [
+			"misc/heartbeat1"
+		]
+	},
+	"misc.heartbeat2": {
+		"sounds": [
+			"misc/heartbeat2"
 		]
 	},
 	"misc.mine_ore": {
@@ -1235,6 +2036,12 @@
 		"stream": true
 	},
 
+	"music.chamberofheart": {
+		"sounds": [
+			"music/chamberofheart"
+		],
+		"stream": true
+	},
 
 	"music.cliffs_of_elevation": {
 		"sounds": [
@@ -1266,42 +2073,5 @@
 			"music/winterdelight_theme"
 		],
 		"stream": true
-	},
-	"music.club.thehills": {
-		"sounds": [
-			"music/club/thehills"
-		],
-		"stream": true
-	},
-	"music.club.wherehaveyoubeen": {
-		"sounds": [
-			"music/club/wherehaveyoubeen"
-		],
-		"stream": true
-	},
-	"music.club.julia": {
-		"sounds": [
-			"music/club/julia"
-		],
-		"stream": true
-	},
-	"music.club.ibiza": {
-		"sounds": [
-			"music/club/ibiza"
-		],
-		"stream": true
-	},
-	"music.club.beast": {
-		"sounds": [
-			"music/club/beast"
-		],
-		"stream": true
-	},
-	"music.club.desire": {
-		"sounds": [
-			"music/club/desire"
-		],
-		"stream": true
 	}
-
 }

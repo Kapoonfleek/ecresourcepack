@@ -1,0 +1,355 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemametyst"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemopal"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemakwamaryn"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemcytryn"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemtopaz"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemjadeit"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemrubin"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemturmalin"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemperydot"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemszafir"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/gemperla"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/cynderiteraw"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/camomeraldraw"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/delphoxiteraw"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/echoniteraw"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/echonitefire"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/echonitewater"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/echoniteearth"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/echoniteair"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/delphoxitefire"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/delphoxitewater"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/delphoxiteearth"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/delphoxiteair"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/camomeraldfire"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/camomeraldwater"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/camomeraldearth"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/camomeraldair"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/cynderitefire"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/cynderitewater"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/cynderiteearth"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/cynderiteair"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "item/umiejetnosci/glaceon/shatter"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/craftyzachseye"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/energizedkingsemerald"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/senseisgalestone"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/zenmysticlapislazuli"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/inscribedillimiteddiamond"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/fierceillimiteddiamond"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/skillfulillimiteddiamond"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/resplendentillimiteddiamond"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/delphoxite"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/camomerald"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/cynderite"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "item/gems/echonite"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "item/umiejetnosci/glaceon/icicles"
+            	}
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/smallazeriteshard"
+            	}
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/smallazeritecluster"
+            	}
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/glowingazeritecrystal"
+            	}
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/glowingazeritegeode"
+            	}
+            }
+        ]
+    }
+}

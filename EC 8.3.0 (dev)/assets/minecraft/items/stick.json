@@ -1,0 +1,136 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/stick"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "select",
+                    "property": "display_context",
+                    "cases": [
+                    	{
+                    	"when": "gui",
+                    	"model": {
+	                    "type": "model",
+	                    "model": "item/umiejetnosci/bumbleblast/beezooka"
+		                    }
+		             }
+			],
+			"fallback": {
+				"type": "model",
+				"model": "item/umiejetnosci/bumbleblast/beezookamodel"
+			}
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "select",
+                    "property": "display_context",
+                    "cases": [
+                    	{
+                    	"when": "gui",
+                    	"model": {
+	                    "type": "model",
+	                    "model": "item/umiejetnosci/jetvac/vacblaster"
+		                    }
+		             }
+			],
+			"fallback": {
+				"type": "model",
+				"model": "item/umiejetnosci/jetvac/vacblastermodel"
+			}
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/kdarzutkunai"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/earthitesetting"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/sketch"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/leafblade"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/crushclaw"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/kittycannon"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/tridentvanilla"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/umiejetnosci/drogoz/rocketlauncher"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/azeritebig"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/azeritesack"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/azeritechest"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/azerite/azeritesmall"
+                }
+            }
+        ]
+    }
+}

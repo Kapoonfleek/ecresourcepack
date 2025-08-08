@@ -86,14 +86,14 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/umiejetnosci/bumbleblast/pszczelozuka.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "minecraft:item/umiejetnosci/bumbleblast/beezooka.png",
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE012"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_stat.png",
+            "file": "minecraft:item/icons/kolorstat.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE013"]
@@ -107,7 +107,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/space_split.png",
+            "file": "minecraft:item/icons/spacesplit.png",
             "ascent": -32768,
             "height": -66,
             "chars": [
@@ -116,7 +116,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/space_nosplit.png",
+            "file": "minecraft:item/icons/spacenosplit.png",
             "ascent": -32768,
             "height": -5,
             "chars": [
@@ -132,7 +132,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_delphox.png",
+            "file": "minecraft:item/icons/kolordelphox.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE016"]
@@ -140,8 +140,8 @@
 		{
             "type": "bitmap",
             "file": "minecraft:item/umiejetnosci/umbreon/nightslash.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE017"]
         },
 		{
@@ -265,21 +265,21 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_leafeon.png",
+            "file": "minecraft:item/icons/kolorleafeon.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE035"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_vaporeon.png",
+            "file": "minecraft:item/icons/kolorvaporeon.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE036"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_jolteon.png",
+            "file": "minecraft:item/icons/kolorjolteon.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE037"]
@@ -293,7 +293,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_xilvia.png",
+            "file": "minecraft:item/icons/kolorxilvia.png",
             "ascent": 8,
             "height": 10,
             "chars": ["\uE039"]
@@ -307,7 +307,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_flareon.png",
+            "file": "minecraft:item/icons/kolorflareon.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE041"]
@@ -321,7 +321,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_xilvia2.png",
+            "file": "minecraft:item/icons/kolorxilvia2.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE044"]
@@ -335,7 +335,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_maldamba.png",
+            "file": "minecraft:item/icons/kolormaldamba.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE046"]
@@ -349,7 +349,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_cynder.png",
+            "file": "minecraft:item/icons/kolorcynder.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE048"]
@@ -363,7 +363,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_sylveon.png",
+            "file": "minecraft:item/icons/kolorsylveon.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE050"]
@@ -377,7 +377,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_tapufini.png",
+            "file": "minecraft:item/icons/kolortapufini.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE052"]
@@ -391,7 +391,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_xilvia2.png",
+            "file": "minecraft:item/icons/kolorxilvia2.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE054"]
@@ -405,7 +405,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_bumbleblast.png",
+            "file": "minecraft:item/icons/kolorbumbleblast.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE056"]
@@ -426,7 +426,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_sunburn.png",
+            "file": "minecraft:item/icons/kolorsunburn.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE059"]
@@ -440,7 +440,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_sandslash.png",
+            "file": "minecraft:item/icons/kolorsandslash.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE072"]
@@ -461,42 +461,42 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/honey_bottle.png",
+            "file": "minecraft:item/icons/honeybottle.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE090"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/honey_bottle_grey.png",
+            "file": "minecraft:item/icons/honeybottlegrey.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE091"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/honey_bottle_halfgrey.png",
+            "file": "minecraft:item/icons/honeybottlehalfgrey.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE092"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/hunger_empty.png",
+            "file": "minecraft:item/icons/hungerempty.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE093"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/hunger_half.png",
+            "file": "minecraft:item/icons/hungerhalf.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE094"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/hunger_full.png",
+            "file": "minecraft:item/icons/hungerfull.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE095"]
@@ -552,14 +552,14 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/frozen_fingers.png",
+            "file": "minecraft:item/icons/procs/frozenfingers.png",
             "ascent": 48,
             "height": 64,
             "chars": ["\uE108"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/frozen_fingers_right.png",
+            "file": "minecraft:item/icons/procs/frozenfingersright.png",
             "ascent": 48,
             "height": 64,
             "chars": ["\uE109"]
@@ -573,28 +573,28 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_glaceon.png",
+            "file": "minecraft:item/icons/kolorglaceon.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE111"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/hot_streak.png",
+            "file": "minecraft:item/icons/procs/hotstreak.png",
             "ascent": 48,
             "height": 64,
             "chars": ["\uE113"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/hot_streak_right.png",
+            "file": "minecraft:item/icons/procs/hotstreakright.png",
             "ascent": 48,
             "height": 64,
             "chars": ["\uE114"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/kolor_dustox.png",
+            "file": "minecraft:item/icons/kolordustox.png",
             "ascent": 10,
             "height": 10,
             "chars": ["\uE115"]
@@ -608,7 +608,7 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/odlamekgwiazdy.png",
+            "file": "minecraft:item/general/starshard.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE117"]
@@ -807,14 +807,14 @@
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/drooling_face.png",
+            "file": "minecraft:item/icons/emotki/droolingface.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE163"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/exploding_head.png",
+            "file": "minecraft:item/icons/emotki/explodinghead.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE164"]
@@ -828,28 +828,28 @@
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/face_with_hand_over_mouth.png",
+            "file": "minecraft:item/icons/emotki/facewithhandovermouth.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE166"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/face_with_monocle.png",
+            "file": "minecraft:item/icons/emotki/facewithmonocle.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE167"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/face_with_raised_eyebrow.png",
+            "file": "minecraft:item/icons/emotki/facewithraisedeyebrow.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE168"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/fingers_crossed.png",
+            "file": "minecraft:item/icons/emotki/fingerscrossed.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE169"]
@@ -891,7 +891,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/heart_eyes.png",
+            "file": "minecraft:item/icons/emotki/hearteyes.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE175"]
@@ -919,35 +919,35 @@
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/kissing_heart.png",
+            "file": "minecraft:item/icons/emotki/kissingheart.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE179"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/money_mouth.png",
+            "file": "minecraft:item/icons/emotki/moneymouth.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE180"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/nauseated_face.png",
+            "file": "minecraft:item/icons/emotki/nauseatedface.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE181"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/ok_hand.png",
+            "file": "minecraft:item/icons/emotki/okhand.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE182"]
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/partying_face.png",
+            "file": "minecraft:item/icons/emotki/partyingface.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE183"]
@@ -975,7 +975,7 @@
 		},
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/rolling_eyes.png",
+            "file": "minecraft:item/icons/emotki/rollingeyes.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE187"]
@@ -996,7 +996,7 @@
 		},		
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/slight_smile.png",
+            "file": "minecraft:item/icons/emotki/slightsmile.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE190"]
@@ -1010,7 +1010,7 @@
 		},
 		{
 		    "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/smiling_face_with_tear.png",
+            "file": "minecraft:item/icons/emotki/smilingfacewithtear.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE192"]
@@ -1041,7 +1041,7 @@
 		{
 		
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/star_struck.png",
+            "file": "minecraft:item/icons/emotki/starstruck.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE196"]
@@ -1089,7 +1089,7 @@
 		{
 		
             "type": "bitmap",
-            "file": "minecraft:item/icons/emotki/upside_down.png",
+            "file": "minecraft:item/icons/emotki/upsidedown.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE202"]
@@ -1224,14 +1224,14 @@
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/lava_surge.png",
+            "file": "minecraft:item/icons/procs/lavasurge.png",
             "ascent": 48,
             "height": 64,
             "chars": ["\uE222"]
         },
 		{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/lava_surge_right.png",
+            "file": "minecraft:item/icons/procs/lavasurgeright.png",
             "ascent": 48,
             "height": 64,
             "chars": ["\uE223"]
@@ -1309,8 +1309,8 @@
 	{
             "type": "bitmap",
             "file": "minecraft:item/umiejetnosci/ghazan/lavaburst.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE234"]
         },
 		{
@@ -1581,7 +1581,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/icons/voidform.png",
+            "file": "minecraft:item/icons/buffs/voidform.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE273"]
@@ -1651,7 +1651,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/delphoxite_air.png",
+            "file": "minecraft:item/profesje/jubilerstwo/delphoxiteair.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE290"]
@@ -1903,7 +1903,7 @@
 	},
 	{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/brain_freeze.png",
+            "file": "minecraft:item/icons/procs/brainfreeze.png",
             "ascent": 64,
             "height": 64,
             "chars": ["\uE335"]
@@ -2253,7 +2253,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/karty/vaporeon_starter.png",
+            "file": "minecraft:item/karty/vaporeonstarter.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE385"]
@@ -2267,14 +2267,14 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/karty/umbreon_starter.png",
+            "file": "minecraft:item/karty/umbreonstarter.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE387"]
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/karty/glaceon_starter.png",
+            "file": "minecraft:item/karty/glaceonstarter.png",
             "ascent": 8,
             "height": 8,
             "chars": ["\uE388"]
@@ -2317,8 +2317,8 @@
 	{
             "type": "bitmap",
             "file": "minecraft:item/umiejetnosci/umbreon/moonlightorb.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE394"]
         },
 	{
@@ -2330,112 +2330,112 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/camomerald_air.png",
+            "file": "minecraft:item/profesje/jubilerstwo/camomeraldair.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE396"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/camomerald_fire.png",
+            "file": "minecraft:item/profesje/jubilerstwo/camomeraldfire.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE397"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/camomerald_earth.png",
+            "file": "minecraft:item/profesje/jubilerstwo/camomeraldearth.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE398"]
         },
    	 {
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/camomerald_water.png",
+            "file": "minecraft:item/profesje/jubilerstwo/camomeraldwater.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE399"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/echonite_air.png",
+            "file": "minecraft:item/profesje/jubilerstwo/echoniteair.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE400"]
         },
    	 {
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/echonite_fire.png",
+            "file": "minecraft:item/profesje/jubilerstwo/echonitefire.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE401"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/echonite_earth.png",
+            "file": "minecraft:item/profesje/jubilerstwo/echoniteearth.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE402"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/echonite_water.png",
+            "file": "minecraft:item/profesje/jubilerstwo/echonitewater.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE403"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/delphoxite_air.png",
+            "file": "minecraft:item/profesje/jubilerstwo/delphoxiteair.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE404"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/delphoxite_fire.png",
+            "file": "minecraft:item/profesje/jubilerstwo/delphoxitefire.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE405"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/delphoxite_earth.png",
+            "file": "minecraft:item/profesje/jubilerstwo/delphoxiteearth.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE406"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/delphoxite_water.png",
+            "file": "minecraft:item/profesje/jubilerstwo/delphoxitewater.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE407"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/cynderite_air.png",
+            "file": "minecraft:item/profesje/jubilerstwo/cynderiteair.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE408"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/cynderite_fire.png",
+            "file": "minecraft:item/profesje/jubilerstwo/cynderitefire.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE409"]
         },
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/cynderite_earth.png",
+            "file": "minecraft:item/profesje/jubilerstwo/cynderiteearth.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE410"]
         }, 
     	{
             "type": "bitmap",
-            "file": "minecraft:item/profesje/jubilerstwo/cynderite_water.png",
+            "file": "minecraft:item/profesje/jubilerstwo/cynderitewater.png",
             "ascent": 9,
             "height": 10,
             "chars": ["\uE411"]
@@ -2519,7 +2519,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/eventy/lunarfestival/invitation_card.png",
+            "file": "minecraft:item/eventy/lunarfestival/invitationcard.png",
             "ascent": 32,
             "height": 32,
             "chars": ["\uE423"]
@@ -2722,7 +2722,21 @@
 	},
 	{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/astral_invocation.png",
+            "file": "minecraft:item/icons/procs/shadowyinsight.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": ["\uE452"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/buffs/surrendertomadness.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE453"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/procs/astralinvocation.png",
             "ascent": 64,
             "height": 64,
             "chars": ["\uE454"]
@@ -2918,7 +2932,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/karty/shenhe_stl.png",
+            "file": "minecraft:item/karty/shenhestl.png",
             "ascent": 16,
             "height": 16,
             "chars": ["\uE482"]
@@ -3121,10 +3135,444 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:item/icons/procs/tidal_waves.png",
+            "file": "minecraft:item/icons/procs/tidalwaves.png",
             "ascent": 64,
             "height": 64,
             "chars": ["\uE511"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/voideruption.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE512"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/voidbolt.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE513"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/mindblast.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE514"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/swvoid.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE515"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/shadowyapparitions.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE516"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/mindflay.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE517"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/shadowwordpain.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE518"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/therold/shadowworddeath.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE519"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/shaymin/swapforme.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE520"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/espeon/futuresight.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE521"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/espeon/timewarp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE522"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/karty/espeon.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE523"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/espeon/mentalagility.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE524"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/espeon/psywave.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE525"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/espeon/mindtransfer.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE526"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/espeon/hypercognition.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE527"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/hummingazeriteheart.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE528"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/smallazeritecluster.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE529"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/glowingazeritegeode.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE530"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/glowingazeritecrystal.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE531"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/npc/magni.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": ["\uE532"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/heart/heartofearthcraft.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": ["\uE533"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/heart/heartofearthcraft.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE534"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/npc/magni.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE535"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/smallazeriteshard.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": ["\uE536"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/tinyazeritesplinter.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE537"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/glowingazerite.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE538"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/radiantazeritefragment.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE539"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/radiantazeritecore.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE540"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/azerite/radiantazeritematrix.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE541"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/arcaneheart.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE542"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/vampiricspeed.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE543"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/earthlink.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE544"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/tidalsurge.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE545"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/thunderousblast.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE546"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/tradewinds.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE547"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/secretsofthedeep.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE548"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/meticulousscheming.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE549"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/gemhide.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE550"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/treacherouscovenant.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE551"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/shadowofthenight.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE552"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/clockworkheart.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE553"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/bulwarkofthemasses.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE554"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/impassivevisage.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE555"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/selfreliance.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE556"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/longstrider.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE557"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/unstableflames.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE558"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/lifespeed.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE559"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/azeritefortification.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE560"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/azeriteveins.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE561"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/therold/deaththroes.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE562"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/therold/thoughtharvester.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE563"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/therold/sinisterthoughts.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE564"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/utility/ancientsbulwark.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE565"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/traits/generic/offensive/apothecarysconcoctions.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": ["\uE566"]
+	},
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/buffs/chorusofinsanity.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE567"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/icons/buffs/touchofdarkness.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE568"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/ghazan/moltenlava.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE569"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/ghazan/ascendance.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE570"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/ghazan/rainoflava.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE571"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/ghazan/lavawave.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE572"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/umiejetnosci/ghazan/lavasurge.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE573"]
         },
 	{
             "type": "bitmap",
@@ -3135,7 +3583,7 @@
         },
         {
             "type": "ttf",
-            "file": "minecraft:negative_spaces.ttf",
+            "file": "minecraft:negativespaces.ttf",
             "shift": [0.0, 0.0],
             "size": 10.0,
             "oversample": 1.0

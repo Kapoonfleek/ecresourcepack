@@ -1,0 +1,320 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/light_gray_stained_glass_pane"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/shauna"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/torbjorn"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/akasaka"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/artur"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/stavros"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/blake"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/sergey"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/rina"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/sedriah"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/amanda"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/cassie"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/kapo"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/marcus"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/owen"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/spifey"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/siraddington"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/archie"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/walter"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/robine"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/jacqueline"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/thijs"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/kad"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/tajemniczakobieta"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/brodatyzachary"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/cole"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/balthazar"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/atticus"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/krysta"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/perseus"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/maggie"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/cornelia"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/stella"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/odyn"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/roza"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/zach"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/czarek"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/magni"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "item/npc/brodatyzachary"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "item/moby/iceelemental"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "item/moby/cipochilla"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "item/karty/shenhestl"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "item/karty/dianapf"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "item/karty/smeargletpvsta"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "item/karty/eziotpvsta"
+                }
+            }
+        ]
+    }
+}
